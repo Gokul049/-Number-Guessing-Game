@@ -205,6 +205,8 @@ public class Main {
     }
 ```
 # output
+<img width="1919" height="1015" alt="Screenshot 2025-07-14 184132" src="https://github.com/user-attachments/assets/d0bdb0fd-2dcd-45b0-80b0-eedbe5e43209" />
+
 <img width="1919" height="1018" alt="Screenshot 2025-07-14 184144" src="https://github.com/user-attachments/assets/eb7d0e63-76ae-41fb-b770-858e17d872b4" />
 
 
